@@ -4,8 +4,8 @@
       "typescript": "cls && npx ts-node --files --transpile-only",
     },
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll": true
-      },
+      "source.fixAll.eslint": "explicit",
+      "source.fixAll": "explicit"
+    },
     
 }
